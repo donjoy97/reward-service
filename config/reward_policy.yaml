@@ -1,0 +1,14 @@
+policy_version: "v1"
+
+xp_per_rupee: 2
+max_xp_per_txn: 500
+
+persona_multipliers:
+  NEW: 1.5
+  RETURNING: 1.0
+  POWER: 2.0
+
+daily_cac_cap:
+  NEW: 200
+  RETURNING: 150
+  POWER: 100
