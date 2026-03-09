@@ -23,7 +23,6 @@ flowchart LR
 
 Client --> API[FastAPI Controller]
 
-API --> VALIDATION[Request Validation]
 API --> IDEMPOTENCY[Idempotency Service]
 
 IDEMPOTENCY --> CACHE[Cache Layer]
