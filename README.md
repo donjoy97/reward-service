@@ -1,4 +1,4 @@
-# Reward Decision Service (Enhanced)
+# Reward Decision Service 
 
 FastAPI microservice that returns deterministic reward decisions for transactions.
 
